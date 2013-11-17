@@ -5,7 +5,7 @@ Moodle module for adding Copysafe PDF to web pages.
 
 By ArtistScope - http://www.artistscope.com
 
-This copysafepdf plugin is compatible with moodle version 2.5
+This copysafepdf plugin is compatible with moodle version 2.5+
 
 Install instructions
 -----------------------------
