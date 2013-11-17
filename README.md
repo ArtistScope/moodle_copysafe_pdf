@@ -8,7 +8,7 @@ By ArtistScope - http://www.artistscope.com
 This copysafepdf plugin is compatible with moodle version 2.5
 
 Install instructions
-====================
+-----------------------------
 
 1) Copy the folder named 'copysafepdf' to moodle's module directory that is 'moodle/mod/'.
 
@@ -31,10 +31,8 @@ Install instructions
 6) Nominate the settings applied to all CopySafe PDF pages.
 
 
-
-
 Mode
-====
+---------
 
 Here you can set mode and change it at any time for debugging purposes:
 
@@ -44,7 +42,7 @@ Here you can set mode and change it at any time for debugging purposes:
 
 
 Select Browsers
-=============
+--------------------------
 
 If you want to allow all web browsers, then all checkboxes need to be ticked.
 
@@ -54,7 +52,7 @@ Browser selection is commonly used in corporate intranets where all users might 
 
  
 CopySafe PDF Browser Plugin Installation
-==================================
+--------------------------------------------------------------------
 
 Viewing protected images displayed on a web page using a web browser requires a browser plugin. By installing the CopySafe PDF Reader the web browser plugin is also installed. Users can then access the protected pages and view protected PDF.
 
@@ -62,19 +60,19 @@ As any visitor loads a web page displaying CopySafe PDF protected PDF their brow
 
 
 Plugin Downloads
-===============
+-----------------------------
 
 This module includes the download page for the CopySafe PDF Reader installer. That page currently links to the ArtistScope download site for the installer, but you are most welcome to download the installer and host it on your own web site. Note that if you are doing this, then you will have to edit the download page to point to the new location of the download file.
 
 
 Customizing the Download Pages
-===========================
+------------------------------------------------------
 
 Any files found in the CopysafePDF folder that use "download" in their file name can be safely edited without affecting this module's functions.
 
 
 Licensing
-========
+----------------
 
 This Moodle module is free and provided as is. However you will need a license to use the CopySafe PDF Protector software to encrypt and domain lock your documents. See https://www.artistscope.net/ssl/order/order_pdf.asp
 
